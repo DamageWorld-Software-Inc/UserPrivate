@@ -6,7 +6,7 @@
 ```
 /data/data/com.damageworld.userprivate/files
 ```
-### ✅ Доступно на F-Droid.
+### ✅ Теперь доступно на GitHub.
 ⚖️ Под лицензией MIT.
 
 ©️ 2026 DamageWorld Software Inc.
